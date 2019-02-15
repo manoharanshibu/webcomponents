@@ -72,3 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 npm install --save @webcomponents/webcomponentsjs vendor-copy
 
 npm install --save @vaadin/vaadin-text-field @vaadin/vaadin-button @vaadin/vaadin-grid
+
+git remote add origin https://github.com/manoharanshibu/webcomponents.git
+git branch --set-upstream-to=origin/master master
